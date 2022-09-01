@@ -1,39 +1,30 @@
+/* Determines properties of all content, not containing a class */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Selector decides the background colour of the entire body */
 body {
     background-color: #d9dcd6;
 }
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-    padding-inline-end: 35px;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Determines properties of the header class */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Determines properties of the header h1 class */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* Determines properties of the seo class */
+.seo {
     color: #d9dcd6;
 }
-
+/* Determines properties of the header nav class */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -42,6 +33,13 @@ p {
     font-size: 20px;
 }
 
+/* Selector determines properties of hyper link anchors */
+a {
+    color: #ffffff;
+    text-decoration: none;
+    padding-inline-end: 35px;
+}
+/* Determines properties of the hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -51,13 +49,13 @@ p {
     background-position: center;
 }
 
-
+/* Determines properties of the content class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Determines properties of the Subtitle class */
 .Subtitle {
     margin-bottom: 20px;
     padding: 50px;
@@ -66,25 +64,31 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Determines properties of the Subtitle img class */
 .Subtitle img {
     max-height: 200px;
 }
-
+/* Determines properties of the Subtitle h2 class */
 .Subtitle h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Determines properties of the float-left class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Determines properties of the float-right class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* selector determines properties of paragraph content */
+p {
+    font-size: 16px;
+}
+/* Determines properties of the benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,30 +99,31 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Determines properties of the benefit class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
     text-align: center;
 }
-
+/* Determines properties of the benefit-h3 class */
 .benefit-h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Determines properties of the benefit-img class */
 .benefit-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* Determines properties of the footer class */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Determines properties of the footer h2 class */
 .footer h2 {
     font-size: 20px;
 }
