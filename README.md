@@ -29,7 +29,7 @@ Additional Images:
 ![Lightbulb with a tie](./Develop/assets/images/brand-awareness.png)
 ```
 ```
-![Gear with three dollar sign symbols](.Develop/assets/images/cost-management.png)
+![Gear with three dollar sign symbols](./Develop/assets/images/cost-management.png)
 ```
 ```
 ## Credits
