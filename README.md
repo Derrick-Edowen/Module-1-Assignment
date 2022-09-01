@@ -14,22 +14,22 @@ Background Image:
 ![4 Individuals collaborating at a work meeting](../images/digital-marketing-meeting.jpg)
 
 Additional Images:
-![Work desk with Search Engine Optimization content](./assets/images/search-engine-optimization.jpg)
+![Work desk with Search Engine Optimization content](./Develop/assets/images/search-engine-optimization.jpg)
 ```
 ```
-![Work space with Increasing reputation slide on monitor](./assets/images/online-reputation-management.jpg)
+![Work space with Increasing reputation slide on monitor](./Develop/assets/images/online-reputation-management.jpg)
 ```
 ```
-![Team work desk with social media marketing symbols](./assets/images/social-media-marketing.jpg)
+![Team work desk with social media marketing symbols](./Develop/assets/images/social-media-marketing.jpg)
 ```
 ```
-![Semi-gear leading to dollar sign](./assets/images/lead-generation.png)
+![Semi-gear leading to dollar sign](./Develop/assets/images/lead-generation.png)
 ```
 ```
-![Lightbulb with a tie](./assets/images/brand-awareness.png)
+![Lightbulb with a tie](./Develop/assets/images/brand-awareness.png)
 ```
 ```
-![Gear with three dollar sign symbols](./assets/images/cost-management.png)
+![Gear with three dollar sign symbols](.Develop/assets/images/cost-management.png)
 ```
 ```
 ## Credits
