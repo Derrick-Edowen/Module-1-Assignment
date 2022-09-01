@@ -21,7 +21,7 @@ body {
     font-size: 48px;
 }
 /* Determines properties of the seo class */
-header h1.seo {
+.header h1.seo {
     color: #d9dcd6;
 }
 /* Determines properties of the header nav class */
